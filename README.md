@@ -2,6 +2,6 @@
 
 Simple web application which let's user to add and delete city to weather dashboard. 
 
-Motivation behidn this project is to learn Node.js and Express with MongoDB integration. 
+Motivation behind this project is to learn Node.js and Express with MongoDB integration. 
 
-Used OpenweatherMap api to request weather data and manipulated data to show relevant inforamtion.
+Used OpenweatherMap api to request weather data and manipulated data to show relevant information.
